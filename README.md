@@ -1,14 +1,12 @@
 # Myportfolio
 
-A responsive portfolio website with luxury black/gold design showcasing Data Science and AI expertise.
+A responsive portfolio website with luxury black/gold design.
 
 ## 🚀 Features
 
 - **Luxury Design**: Black & gold theme with elegant animations
 - **Responsive**: Mobile-optimized (shows only hero image) and desktop-optimized (shows both images)
 - **Interactive**: Particle backgrounds, smooth animations, hover effects
-- **Contact Form**: Formspree integration for free message handling
-- **Professional Sections**: Hero, About, Skills, Projects, Contact
 
 ## 🛠️ Tech Stack
 
